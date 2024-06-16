@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744561684493",
+    "project_id": "music-camp-45f37",
+    "storage_bucket": "music-camp-45f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744561684493:android:257650fc940925ba316544",
+        "android_client_info": {
+          "package_name": "com.example.music_camp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA98ACtSKyCmv7W2Yb20bcUyQjKgLRQZqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
